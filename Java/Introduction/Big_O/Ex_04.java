@@ -2,12 +2,8 @@ package Big_O;
 
 public class Ex_04 {
 	public static void foo(int[] arrA, int[] arrB) {
-		for (int a : arrA) {
-			System.out.println(a);
-		}
-		for (int b : arrB) {
-			System.out.println(b);
-		}
+		for (int a : arrA) System.out.println(a);
+		for (int b : arrB) System.out.println(b);
 	}
 	
 	public static void bar(int[] arrA, int[] arrB) {

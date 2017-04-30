@@ -9,7 +9,7 @@ public class Ex_01 {
 		return sum;}
 	
 	public static void main(String[] args) {
-		int s = sum(100);
+		int s = sum(4);
 		System.out.println(s);
 	}
 }

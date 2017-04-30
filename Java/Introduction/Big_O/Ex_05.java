@@ -9,6 +9,7 @@ public class Ex_05 {
 	}
 	
 	public static void main(String[] args) {
-		f(1);
+		/*System.out.println(f(6));*/
+		f(6);
 	}		
 }
